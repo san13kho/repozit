@@ -47,3 +47,5 @@ if is_pc_turn:
 else:
     print("Победил компьютер!!!")
 #qwerty
+#computer
+
